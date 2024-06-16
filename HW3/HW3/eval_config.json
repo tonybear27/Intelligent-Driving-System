@@ -1,0 +1,22 @@
+{
+  "available_scenarios": 
+  {
+    "Town05": [
+      {
+        "agent": ["auto"],
+        "start": ["E1"],
+        "dest": ["A3"]
+      },
+      {
+        "agent": ["auto"],
+        "start": ["E1"],
+        "dest": ["A3"]
+      },
+      {
+        "agent": ["auto"],
+        "start": ["E1"],
+        "dest": ["A3"]
+      }
+    ]
+  }
+}
